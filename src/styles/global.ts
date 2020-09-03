@@ -28,4 +28,8 @@ export default createGlobalStyle`
   button {
     cursor: pointer;
   }
+
+  #logo {
+    max-width: 250px;
+  }
 `;
