@@ -4,6 +4,7 @@ It uses GitHub's API to search for repos. Buit with TypeScript, React, Axios for
 
 ## Demo
 Check out the demo below:
+
 ![GitHub Explorer Demo](src/assets/demo.gif)
 
 ## Getting Started
