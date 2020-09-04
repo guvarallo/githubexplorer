@@ -1,6 +1,6 @@
 # GitHub Explorer
 
-It uses GitHub's API to search for repos. Buit with TypeScript, React, Axios for API calls and Styled Components.
+It uses GitHub's API to search for repos. Built with TypeScript, React, Axios for API calls and Styled Components.
 
 ## Demo
 Check out the demo below:
